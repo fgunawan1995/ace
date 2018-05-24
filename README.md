@@ -3,8 +3,9 @@ Pre Test
 
 Installation : 
   1. Clone this repo
-  2. Run migration and seed : php artisan migrate --seed
-  3. php artisan serve
+  2. Change .env files for database
+  3. Run migration and seed : php artisan migrate --seed
+  4. php artisan serve
   
 Features :
   1. JWT Authentication
